@@ -26,6 +26,14 @@
                                                     <option value="all">All</option>
                                                 </select>
                                             </div>
+<div class="form-group">
+                                                <label for="filter">Filter by</label>
+                                                <select class="form-control" name="search_param">
+                                                    <option value="title" selected>Title</option>
+                                                    <option value="content">Content</option>
+                                                    <option value="all">All</option>
+                                                </select>
+                                            </div>
                                             <div class="form-group">
                                                 <label for="contain"><input type="radio" name="optradio" value="1">&nbsp Full text</label>
                                                 <input class="form-control" type="text" name="key_full_text" value="{{  old('key_full_text', isset($key_full_text) ? $key_full_text : null) }}"/>

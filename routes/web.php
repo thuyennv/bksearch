@@ -18,4 +18,5 @@ Route::get('my-todos', 'TodoController@getAllTodos');
 Route::get('add', 'TodoController@getAllTodos');
 Route::get('index', 'SearchController@index');
 Route::get('test', 'SearchController@test');
+Route::get('bk', 'SearchController@test');
 

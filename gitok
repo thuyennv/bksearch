@@ -1,0 +1,6 @@
+- sao chep mot ban sao cua kho chua  : git clone
+- kiem tra trang thai tap tin: git status
+- theo doi cac tap tin moi: git add
+- quan li cac tap tin da thay doi: git status
+- git status luu tru tat ca cac thay doi so voi master
+	git diff luu thay doi so voi local ma chua dc add vao commit
