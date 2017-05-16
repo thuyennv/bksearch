@@ -4,3 +4,6 @@
 - quan li cac tap tin da thay doi: git status
 - git status luu tru tat ca cac thay doi so voi master
 	git diff luu thay doi so voi local ma chua dc add vao commit
+- quan li cac tap tin da thay doi: git status
+- git status luu tru tat ca cac thay doi so voi master
+	git diff luu thay doi so voi local ma chua dc add vao commit
